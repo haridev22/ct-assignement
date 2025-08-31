@@ -124,6 +124,3 @@ The following assumptions were made during the development of this project:
 
 8. **Direct API Integration**: Rather than using a third-party Ethereum client library, the project directly integrates with Etherscan's API for better control over requests and response handling.
 
-## License
-
-MIT
